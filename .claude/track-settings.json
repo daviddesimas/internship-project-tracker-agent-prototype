@@ -1,0 +1,25 @@
+{
+  "permissions": {
+    "allow": [
+      "Skill",
+      "Bash(python3 .claude/skills/ingest-email/ingest.py)",
+      "Bash(python3 .claude/skills/register-project/register.py:*)",
+      "Bash(python3 finish_run.py)"
+    ],
+    "deny": [
+      "Bash(rm:*)",
+      "Bash(chmod:*)",
+      "Bash(mv:*)",
+      "Bash(python3 reset.py:*)",
+      "Bash(./reset.py:*)",
+      "Bash(python3 tracker.py:*)",
+      "Bash(python3 prepare.py:*)",
+      "Bash(python3 choose_models.py:*)",
+      "Bash(./run.sh:*)",
+      "Edit(./email_archive/**)",
+      "Edit(./tracking-data/**)",
+      "Edit(./in/**)",
+      "Edit(./mock_emails/**)"
+    ]
+  }
+}

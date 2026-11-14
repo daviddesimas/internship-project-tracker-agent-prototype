@@ -1,0 +1,16 @@
+From: Jane Doe <jane.doe@example.com>
+To: Operator <operator@example.com>
+Subject: Q3 Budget Review - action needed by Friday
+Date: Tue, 10 Nov 2026 14:32:00 -0800
+Attachments: q3_budget.xlsx, review_notes.pdf
+
+Hi,
+
+Please review the attached Q3 budget spreadsheet before Friday's meeting.
+The marketing line is 12% over plan, and I've flagged the main drivers in
+the review notes.
+
+Let me know if you have questions.
+
+Thanks,
+Jane

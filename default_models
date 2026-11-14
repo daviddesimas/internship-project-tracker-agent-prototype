@@ -1,0 +1,5 @@
+# From-scratch default model for each tracker. Used when .models (your menu 6
+# choices, local and not committed) has no choice for that tracker.
+# Change a line here to change the project default.
+api=claude-sonnet-5-5
+cc=claude-sonnet-5-5

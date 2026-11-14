@@ -1,0 +1,19 @@
+From: Bart Starr <bart.starr@example.com>
+To: Operator <operator@example.com>
+Subject: New project request: AI tool for tracker spreadsheet stats
+Date: Thu, 12 Nov 2026 11:05:00 -0800
+Attachments: stats_wishlist.docx
+
+Hi,
+
+I'd like to request a new AI tool that builds statistics from the project
+tracking spreadsheet. For example: how many requests are in each state, how
+many came in each week, who submits the most requests, and how long items
+take to move from Registered to Deployed.
+
+A weekly summary would be ideal, plus the ability to ask questions in plain
+English, like "how many Active projects are there?". My wish list is
+attached.
+
+Thanks,
+Bart

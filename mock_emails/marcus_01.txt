@@ -1,0 +1,16 @@
+From: Marcus Lee <marcus.lee@example.com>
+To: Operator <operator@example.com>
+Subject: New project request: Customer portal redesign
+Date: Wed, 11 Nov 2026 09:15:00 -0800
+Attachments: portal_requirements.docx, current_portal_screens.zip
+
+Hello,
+
+I'd like to request a new project to redesign our customer portal. The goal
+is to cut support tickets by making billing and account settings easier to
+find. Target launch is Q2 2027, with a budget of about $150k.
+
+Requirements and screenshots of the current portal are attached.
+
+Best,
+Marcus
